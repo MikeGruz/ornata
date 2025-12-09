@@ -7,6 +7,7 @@ theme = 'paper'
 rss = true
 bluesky = 'mikegruz.bsky.social'
 mastodon = 'https://mstdn.social/@mikegruz'
+github = 'https://github.com/MikeGruz'
 
 # profile
 name = 'Mike Gruszczynski'
