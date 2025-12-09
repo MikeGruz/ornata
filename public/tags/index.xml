@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terrapene Ornata</title>
-    <link>http://localhost:46347/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Terrapene Ornata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:46347/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 09:59:13 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/tags/writing/</link>
+      <pubDate>Tue, 09 Dec 2025 09:59:13 -0500</pubDate>
+      <guid>http://localhost:1313/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Listenings</title>
+      <link>http://localhost:1313/tags/listenings/</link>
+      <pubDate>Mon, 08 Dec 2025 21:11:52 -0500</pubDate>
+      <guid>http://localhost:1313/tags/listenings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/tags/music/</link>
+      <pubDate>Mon, 08 Dec 2025 21:11:52 -0500</pubDate>
+      <guid>http://localhost:1313/tags/music/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
