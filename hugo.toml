@@ -1,0 +1,16 @@
+baseURL = 'https://www.terrapeneornata.com/'
+languageCode = 'en-us'
+title = 'Terrapene Ornata'
+theme = 'paper'
+
+[params]
+rss = true
+bluesky = 'mikegruz.bsky.social'
+mastodon = 'https://mstdn.social/@mikegruz'
+
+# profile
+name = 'Mike Gruszczynski'
+bio = "Mike's Blog"
+
+# misc
+monoDarkIcon = true
