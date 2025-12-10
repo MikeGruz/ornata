@@ -2,6 +2,7 @@
 title = 'December 2025 Listenings'
 date = 2025-12-08T21:11:52-05:00
 draft = false
+categories = ['music']
 tags = ['music','listenings']
 author = 'Mike Gruszczynski'
 description = 'A smattering of music I was listening to in December 2025'
@@ -26,8 +27,6 @@ Signal Hangup
 {{<bandcamp_track 2004697884>}}
 
 Nine Inch Nails
-{{<tidal_track 468165254>}}
-
 {{<youtube r2bL7DU21Wg>}}
 
 
