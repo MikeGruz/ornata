@@ -2,7 +2,8 @@
 
 <article class="h-entry">
   <header class="mb-14">
-    <h1 class="my-0! pb-2.5">{{- .Title -}}</h1>
+    <h1 class="my-0! pb-2.5 p-name">{{- .Title -}}</h1>
+    <link class="u-url" href="{{- .Permalink -}}" style="display:none;"></link>
 
     {{- if ne .Type "page" -}}
     <div class="text-xs antialiased opacity-60">
