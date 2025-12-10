@@ -5,7 +5,7 @@ theme = 'paper'
 
 [params]
 rss = true
-bluesky = 'mikegruz.bsky.social'
+bluesky = 'terrapeneornata.com'
 mastodon = 'https://mstdn.social/@mikegruz'
 github = 'MikeGruz'
 
