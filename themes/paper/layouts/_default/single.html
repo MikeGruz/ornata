@@ -1,25 +1,25 @@
 {{- define "main" -}}
 
-<article>
+<article class="h-entry">
   <header class="mb-14">
     <h1 class="my-0! pb-2.5">{{- .Title -}}</h1>
 
     {{- if ne .Type "page" -}}
     <div class="text-xs antialiased opacity-60">
       {{- if .Date -}}
-      <time>{{- .Date | time.Format ":date_medium" -}}</time>
+      <time class="dt-published" datetime="{{- .Date -}}">{{- .Date | time.Format ":date_medium" -}}</time>
       {{- end -}}<!---->
       {{- $single_author := or .Params.Author site.Author.name -}}
       <!---->
       {{- if $single_author -}}
       <span class="mx-1">&middot;</span>
-      <span>{{- $single_author -}}</span>
+      <span class="p-name">{{- $single_author -}}</span>
       {{- end -}}
     </div>
     {{- end -}}
   </header>
 
-  <section>{{- .Content -}}</section>
+  <section class="e-content">{{- .Content -}}</section>
 
   <!-- Post Tags -->
   {{- if .Params.tags -}}
