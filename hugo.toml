@@ -2,6 +2,7 @@ baseURL = 'https://www.terrapeneornata.com/'
 languageCode = 'en-us'
 title = 'Terrapene Ornata'
 theme = 'paper'
+author = 'Mike Gruszczynski'
 
 [params]
 rss = true

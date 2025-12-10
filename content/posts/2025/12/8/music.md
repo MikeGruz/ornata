@@ -3,6 +3,7 @@ title = 'December 2025 Listenings'
 date = 2025-12-08T21:11:52-05:00
 draft = false
 tags = ['music','listenings']
+author = 'Mike Gruszczynski'
 description = 'A smattering of music I was listening to in December 2025'
 +++
 
