@@ -6,21 +6,21 @@
     <description>Recent content in Posts on Terrapene Ornata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 15:13:57 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 14:22:42 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feeds2</title>
-      <link>http://localhost:1313/posts/2025/12/11/feeds2/</link>
-      <pubDate>Thu, 11 Dec 2025 15:13:57 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/11/feeds2/</guid>
-      <description>Test #terrapeneornatablog&#xA;(View)&#xA;Hey, looks cool.&#xA;(View)&#xA;Testing https://www.terrapeneornata.com/posts/hello/&#xA;(View)&#xA;Officially left Twitter.&#xA;(View)</description>
+      <title>Recent Bluesky Posts</title>
+      <link>http://localhost:1313/posts/bsky-feed/</link>
+      <pubDate>Thu, 11 Dec 2025 14:22:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/bsky-feed/</guid>
+      <description>Faculty at a Big 10 school with a prominent athletic program here: my retirement (that I signed a contract for) was cut 10% this year. I also have to clean my office with a broken, donated vacuum. But this is nice too, I guess. [contains quote post or other embedded content] (View)&#xA;Nobody who has to refer to themselves as &#34;highly respected&#34; is [contains quote post or other embedded content] (View)</description>
     </item>
     <item>
-      <title>Feeds</title>
-      <link>http://localhost:1313/posts/2025/12/11/feeds/</link>
+      <title>Recent Mastodon Posts</title>
+      <link>http://localhost:1313/posts/mstdn-feed/</link>
       <pubDate>Thu, 11 Dec 2025 14:22:42 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/11/feeds/</guid>
-      <description>My mstdn.social feed:&#xA;Test #terrapeneornatablog&#xA;(View)&#xA;Hey, looks cool.&#xA;(View)&#xA;Testing https://www.terrapeneornata.com/posts/hello/&#xA;(View)&#xA;Officially left Twitter.&#xA;(View)</description>
+      <guid>http://localhost:1313/posts/mstdn-feed/</guid>
+      <description>Test #terrapeneornatablog&#xA;(View)&#xA;Hey, looks cool.&#xA;(View)&#xA;Testing https://www.terrapeneornata.com/posts/hello/&#xA;(View)&#xA;Officially left Twitter.&#xA;(View)</description>
     </item>
     <item>
       <title>Hello again</title>
