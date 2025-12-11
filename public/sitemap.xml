@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hello2/</loc>
-    <lastmod>2025-12-09T09:59:13-05:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/12/11/feeds2/</loc>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-09T09:59:13-05:00</lastmod>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rss/</loc>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/rss/</loc>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-09T09:59:13-05:00</lastmod>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-11T15:13:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/12/11/feeds/</loc>
+    <lastmod>2025-12-11T14:22:42-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello2/</loc>
     <lastmod>2025-12-09T09:59:13-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/writing/</loc>
@@ -26,9 +41,10 @@
     <loc>http://localhost:1313/tags/music/</loc>
     <lastmod>2025-12-08T21:11:52-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/music/</loc>
+    <lastmod>2025-12-08T21:11:52-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/hello/</loc>
     <lastmod>2025-12-08T15:33:09-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
